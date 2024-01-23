@@ -17,3 +17,5 @@ __*
 data
 Res_01
 *.zip
+.DS_Store
+.idea
